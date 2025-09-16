@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+dist/
+build/
+.out/
+.angular/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Temporary files
+tmp/
+temp/
+
+# Coverage reports
+coverage/
+
+# Build outputs
+*.js
+*.css
+
+# Configuration files that might contain sensitive information
+config.json
+
+# Angular specific
+/.angular/cache
