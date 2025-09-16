@@ -1,0 +1,26 @@
+# General project files that should be ignored
+*.log
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Documentation files that might be generated
+*.pdf
+*.docx
+*.xlsx
+
+# Backup files
+*.bak
+*.backup
